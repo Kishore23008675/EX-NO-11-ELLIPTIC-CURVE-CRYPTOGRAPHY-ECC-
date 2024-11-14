@@ -1,5 +1,5 @@
-# Develop By : Naveen Kumar T
-# Req No : 212223220067
+# Develop By : kishore A
+# Req No : 212223110022
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
 ## Aim:
@@ -135,10 +135,10 @@ int main() {
 }
 ```
 
+![WhatsApp Image 2024-11-14 at 09 15 05_7cbc2d80](https://github.com/user-attachments/assets/02285c81-ed86-4c94-ac7c-64cd7c30326b)
 
 
 ## Output:
-![385000918-f7f2b899-9e4a-4b66-95d2-60969cfbeeca](https://github.com/user-attachments/assets/c5c1a11a-7dc4-4fd2-aa74-e0234a6e8ad0)
 
 
 ## Result:
